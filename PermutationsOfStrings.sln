@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationsOfStrings", "PermutationsOfStrings\PermutationsOfStrings.csproj", "{A2F0AB06-8D22-4433-BE08-70E6C06C7C8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2F0AB06-8D22-4433-BE08-70E6C06C7C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F0AB06-8D22-4433-BE08-70E6C06C7C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F0AB06-8D22-4433-BE08-70E6C06C7C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F0AB06-8D22-4433-BE08-70E6C06C7C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
